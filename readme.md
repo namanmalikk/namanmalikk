@@ -41,9 +41,9 @@
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=namanmalikk&show_icons=true&theme=dark" width = 500>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=namanmalikk&theme=dark" width = 300><br>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=parvg555&theme=dark" width = 300><br>
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=namanmalikk&theme=dark&hide_border=true" width = 500>
 </p>
 
-<!-- ![Parv's GitHub stats](https://github-readme-stats.vercel.app/api?username=parvg555&theme=dark&show_icons=true) &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parvg555&theme=dark) -->
+<!-- ![Naman's GitHub stats](https://github-readme-stats.vercel.app/api?username=parvg555&theme=dark&show_icons=true) &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parvg555&theme=dark) -->
 
