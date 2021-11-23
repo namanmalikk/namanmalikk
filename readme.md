@@ -15,7 +15,7 @@
 <p align="center">
  <a href="https://linkedin.com/in/namanmalikk"><img src="lld2.png" alt="LinkedIn" height="80" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:namanmalikk@gmail.com"> <img src="gmail.png" alt="" height="70" style="vertical-align:top; margin:4px"></a>
- <a href="https://instagram.com/namanmalikk"> <img src="insta.png" alt="Python" height="70" style="vertical-align:top; margin:4px"></a>
+ <a href="https://instagram.com/namanmalikkk"> <img src="insta.png" alt="Python" height="70" style="vertical-align:top; margin:4px"></a>
 </p>
 
 <br />
